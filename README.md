@@ -27,7 +27,7 @@ In this project, I coded a Intermediate level web page that I took from the Fron
 
 ### Links
 - Solution URL: https://github.com/Salih-Alizade/WebTap-r-qFF
-- Live Site URL: 
+- Live Site URL: [https://github.com/Salih-Alizade/WebTap-r-qFF/settings/pages](https://salih-alizade.github.io/WebTap-r-qFF/)
 
 ## Process
 
